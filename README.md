@@ -19,7 +19,7 @@ Use DISTINCT() to remove duplicate records
 Combine functions in both the SELECT statement and the WHERE clause
 
 ## **Architecture**
-<p align="center"> <img src="architecture/database-lab-architecture.png" alt="Database Architecture" width="650"/> </p>
+<img width="500" height="300" alt="818c9ac0-f5c1-4c23-a648-5d68527f6a57" src="https://github.com/user-attachments/assets/2ba33c8c-629c-4728-a087-11f09e9fffdc" />
 
 Architecture Summary:
 
@@ -116,5 +116,6 @@ Improved query readability with column aliases (AS)
 Amarachi Emeziem
 Cloud Security & IT Support Specialist | AWS & Azure Certified
 
-LinkedIn: 
+LinkedIn: https://www.linkedin.com/in/amarachilemeziem/
+
  
