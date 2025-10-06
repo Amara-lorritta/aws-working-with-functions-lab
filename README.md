@@ -77,20 +77,17 @@ WHERE Region LIKE "%Micronesia%/%Caribbean%";
 ```
 ## **Screenshots**
 
-1️⃣ 01_aggregate_functions.png
+01_aggregate_functions.png
+<img width="1626" height="229" alt="Screenshot 2025-10-06 071916" src="https://github.com/user-attachments/assets/454de8aa-ef89-45dc-a7e6-a48837f3b631" />
 
+02_substring_index_split.png
+<img width="1199" height="364" alt="Screenshot 2025-10-06 072017" src="https://github.com/user-attachments/assets/f0b6b99d-85ab-4d5a-9f9a-7860a8eac07c" />
 
-2️⃣ 02_substring_index_split.png
+03_length_trim_filter.png
+<img width="1081" height="361" alt="Screenshot 2025-10-06 072134" src="https://github.com/user-attachments/assets/da12ce14-997c-4773-93ec-3931b90ecaec" />
 
-
-3️⃣ 03_length_trim_filter.png
-
-
-4️⃣ 04_distinct_function.png
-
-
-5️⃣ 05_challenge_split_columns.png
-
+04_distinct_function.png
+<img width="1097" height="246" alt="Screenshot 2025-10-06 072250" src="https://github.com/user-attachments/assets/541819c4-9bca-4a8b-8e3c-fb2217968e5e" />
 
 ## **Tools Used**
 
@@ -118,5 +115,6 @@ Improved query readability with column aliases (AS)
 
 Amarachi Emeziem
 Cloud Security & IT Support Specialist | AWS & Azure Certified
+
 LinkedIn: 
  
